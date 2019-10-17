@@ -1,0 +1,44 @@
+Bomb1:
+	- Aprece aleatoriamente a cada 10 segundos.
+	- Demora 5 segundos no Mapa.
+	- Explode Horizontalmente ou Vertical.
+	- Destroi os elementos.
+	- Produz o efeito Flame durante a explosão.
+
+Bomba2: 
+	- Aparece aleatoriamente a cada 10 segundos.
+	- Demora 5 segundos no Mapa.
+	- Explode num area de 5x5.
+	- Destroi os elementos.
+	- Produz o efeito Flame durante a explosão.
+
+White Rabbit: 
+	- Movimenta-se numa trajectória horizontal, vertical ou obliqua.
+	- Refugia-se nós arbustos e tocas.
+	- Muda de direcção apenas quando colide com pedras ou quando entra           numa toca.
+	- Quando abatido nasce outro numa posição aleatoria.
+	- 10 pontos quando e abatido.
+	- Movimenta-se mais rapido a cada nivel.
+
+Grey Rabbit:
+	- Movimenta-se sempre em direcção as tocas.
+	- Pode refugiar-se em arbustos.
+	- Quando as tocas forem destruidas têm o comportamento do white           rabbit.
+	- Quando abatido nasce outro numa posição aleatoria.
+	- 20 pontos quando e abatido.
+	- Movimenta-se mais rapido a cada nivel.
+
+Points:
+	- Aparece aleatoriamente a cada 20 segundos.
+	- Demora 5 segundos no mapa.
+	- 20 pontos.
+
+Time:
+	- Aparece aleatoriamente a cada 20 segundos.
+	- Demora 5 segundos no mapa.
+	- 20 segundos extra.
+
+Jogador:
+	- Move-se em qualquer direcção.
+	
+	
